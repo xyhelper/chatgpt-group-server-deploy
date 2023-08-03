@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  chatgpt-group-server:
+    image: xyhelper/chatgpt-group-server:latest
+    restart: always
+    ports:
+      - 8001:8001
+    environment:
+      TZ: Asia/Shanghai # 指定时区
+    volumes:
+      - ./data/:/app/data/
