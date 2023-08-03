@@ -1,6 +1,6 @@
 # ChatGPT-Group-Server-Deploy
 
-本版本为`ChatGPT-Mirror-Server`的简化版本，限20官网账号，适合小规模团体使用。
+本版本为`ChatGPT-Mirror-Server`的简化版本，限20官网账号，不支持API方式调用，适合小规模团体使用。
 
 `该服务为收费服务，不喜请绕行`
 
